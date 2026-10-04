@@ -1,0 +1,11 @@
+city,lat,lon,timezone
+Wilmington,34.2257,-77.9447,America/New_York
+New York,40.7128,-74.0060,America/New_York
+Chicago,41.8781,-87.6298,America/Chicago
+Los Angeles,34.0522,-118.2437,America/Los_Angeles
+Houston,29.7604,-95.3698,America/Chicago
+Phoenix,33.4484,-112.0740,America/Phoenix
+Miami,25.7617,-80.1918,America/New_York
+Seattle,47.6062,-122.3321,America/Los_Angeles
+Denver,39.7392,-104.9903,America/Denver
+Boston,42.3601,-71.0589,America/New_York
